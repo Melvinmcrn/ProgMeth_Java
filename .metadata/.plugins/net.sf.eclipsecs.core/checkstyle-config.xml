@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<checkstyle-configurations file-format-version="5.0.0" default-check-configuration="PROG METH">
+  <check-configuration name="PROG METH" location="internal_config_1534481021279.xml" type="internal" description=""/>
+</checkstyle-configurations>

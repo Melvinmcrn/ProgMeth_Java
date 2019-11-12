@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="G:\My Drive\Chulaaaaaaaa\Chula work files\Year 2\Java coding\Lecture6_Code"/>
+		<item value="G:\My Drive\Chulaaaaaaaa\Chula work files\Year 2\Java coding\2110215_Lab3_2018_6030478021_Melvin"/>
+		<item value="D:\Java coding\AbstractExercise_toStudent"/>
+		<item value="D:\Java coding\Lecture3_Abstract_Code"/>
+		<item value="C:\Users\Mrmel\Downloads\Compressed\Lecture3_Abstract_Code"/>
+		<item value="D:\Java coding\2110215_Lab2a_2018_6030478021_Melvin"/>
+		<item value="C:\Users\Mrmel\OneDrive\เดสก์ท็อป\2110215_Lab2a_2018_6030478021_Melvin"/>
+		<item value="D:\Java coding\​2110215_Lab2a_2018_6030478021_Melvin"/>
+		<item value="D:\Java coding\Lecture02_Code"/>
+		<item value="C:\Users\Mrmel\Downloads\Compressed\Lecture02_Code"/>
+		<item value="C:\Users\Mrmel\Downloads\Compressed"/>
+		<item value="C:\Users\Mrmel\Downloads\Compressed\java-1.8.0-openjdk-1.8.0.171-1.b10.redhat.windows.x86_64.zip"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="G:\My Drive\Chulaaaaaaaa\Chula work files\Year 2\Java coding\project2018"/>
+			<item value="C:\Users\Mrmel\OneDrive\เดสก์ท็อป\Indychess-master"/>
+			<item value="G:\My Drive\Chulaaaaaaaa\Chula work files\Year 2\Java coding\tps_hr-master"/>
+			<item value="G:\My Drive\Chulaaaaaaaa\Chula work files\Year 2\Java coding\2110215_Project_2017_prayut_janangkan"/>
+			<item value="G:\My Drive\Chulaaaaaaaa\Chula work files\Year 2\Java coding\PEyeProject"/>
+			<item value="G:\My Drive\Chulaaaaaaaa\Chula work files\Year 2\Java coding"/>
+			<item value="G:\My Drive\Chulaaaaaaaa\Chula work files\Year 2\Java coding\Lecture3_Abstract_Code"/>
+			<item value="G:\My Drive\Chulaaaaaaaa\Chula work files\Year 2\Java coding\Lecture02_Code"/>
+			<item value="G:\My Drive\Chulaaaaaaaa\Chula work files\Year 2\Java coding\Lecture5_Code"/>
+			<item value="C:\Users\Mrmel\Downloads\Compressed\Lecture5_Code"/>
+			<item value="D:\Java coding\2110215_Lab1_2018_6030478021_Melvin"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item value="false" key="FilterByLocation"/>
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode/&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
+		<item value="false" key="ShowDerived"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="669" key="DIALOG_X_ORIGIN"/>
+			<item value="191" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="645" key="DIALOG_HEIGHT"/>
+		<item value="619" key="DIALOG_X_ORIGIN"/>
+		<item value="94" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
